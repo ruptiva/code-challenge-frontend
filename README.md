@@ -66,4 +66,4 @@ Abaixo do formulário, adicione o título 'Usuários'. Exiba uma lista dos usuá
 - Criar um repositório público ou privado para avaliação do time Ruptiva
 - Criar um `README.md` no repositório com uma breve descrição do processo de desenvolvimento, incluindo problemas/dificuldades encontradas e um link para o snack.
 - A partir do momento que você recebeu este teste, tem 5 dias para concluí-lo. Caso não consiga entregar no prazo, entre em contato para justificar o motivo.
-- O contato deve ser feito pelo do e-mail maikel@ruptiva.com
+- O contato deve ser feito pelo do e-mail cleimar@ruptiva.com
